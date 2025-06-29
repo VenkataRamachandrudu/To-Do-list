@@ -2,7 +2,7 @@ from datetime import datetime
 from typing import List, Optional
 import json
 
-class TodoItem
+class TodoItem:
     Represents a single todo item
     
     def __init__(self, title str, description str = , priority str = Medium, 

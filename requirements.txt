@@ -1,0 +1,14 @@
+# Python To-Do List Application Requirements
+
+# Core dependencies for Streamlit web app
+streamlit>=1.28.0
+pandas>=1.5.0
+plotly>=5.15.0
+
+# For CLI version (uses only Python standard library)
+# No additional dependencies required for main.py
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0

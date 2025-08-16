@@ -1,7 +1,7 @@
 # Python To-Do List Manager 📝
 
 A feature-rich to-do list application with both **Command Line Interface (CLI)** and **Web Interface (Streamlit)**. Manage your tasks efficiently with priorities, due dates, analytics, and persistent storage.
-live{https://to-do-list-lquvrgzv6kd6ggehda3hga.streamlit.app/}
+[live](https://to-do-list-lquvrgzv6kd6ggehda3hga.streamlit.app/)
 ## Features ✨
 
 ### 🖥️ CLI Version (main.py)
@@ -272,3 +272,4 @@ If you encounter any issues or have questions:
 
 
 **Happy task managing! 🎯**
+
